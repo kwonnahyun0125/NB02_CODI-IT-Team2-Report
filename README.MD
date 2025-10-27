@@ -83,6 +83,10 @@ Nest의 모듈화, 의존성 주입(DI), 데코레이터 기반 설계를 익히
 마지막으로, 협업 과정에서 배운 점을 바탕으로 문서화와 코드 리뷰 문화를 꾸준히 강화하여, 팀 전체의 개발 효율성과 코드 품질을 높이는 방향으로 나아가고자 합니다.
 
 ## 6. 구체적 개발 예시
+- ### [POST] 회원가입
+<img width="650" height="736" alt="스크린샷 2025-10-21 103136" src="https://github.com/user-attachments/assets/a5fd112f-86e9-4736-9379-08708f1ed662" />
+
+- ### [POST] 로그인
+<img width="648" height="768" alt="로그인n" src="https://github.com/user-attachments/assets/05f94b8c-2b94-498b-a11d-4a4cb3b616a6" />
+
 - 
-
-
